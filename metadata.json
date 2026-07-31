@@ -1,0 +1,6 @@
+{
+  "name": "Daily Nutrition Analyzer",
+  "description": "Analyze your daily food intake and receive personalized dietary recommendations and nutrition scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
